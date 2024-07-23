@@ -19,7 +19,7 @@ cd /tmp
 
 Clone the Git repository.
 ```
-git clone https://github.com/iamdh4/ttf-wps-fonts.git
+git clone https://github.com/jayknoxqu/wps-symbol-fonts.git
 ```
 
 Enter the directory.
@@ -47,7 +47,7 @@ cd /tmp
 
 Clone the Git repository.
 ```
-git clone https://github.com/iamdh4/ttf-wps-fonts.git
+git clone https://github.com/jayknoxqu/wps-symbol-fonts.git
 ```
 
 Create a sub directory in your system's fonts directory. This is usually `/usr/share/fonts`, otherwise consult your distribution's documentation.
